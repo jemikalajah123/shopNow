@@ -3,7 +3,7 @@
 This is a simple ecommerce solution built with Vue Js, Twilo, SMTP, Heroku and Adonis Js.
 
 ## Setup
-Manually clone the repo and then run following commands on your bash terminal.
+Manually clone the repo and run following commands.
 
 Use the command to enter the project root folder
 
